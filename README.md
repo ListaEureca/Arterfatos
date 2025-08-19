@@ -13,4 +13,4 @@ O estudo foi conduzido entre 2019 e 2024 e resultou na **Lista Eureca 2024**, co
 
 ## Acesso ao documento
 
-👉 [Clique aqui para acessar o PDF da Lista Eureca 2024](./artefatos/Lista%20Eureca%20-%202024.pdf)
+👉 [Clique aqui para acessar o PDF da Lista Eureca 2024](./listas/ListaEureca-2024.pdf)
