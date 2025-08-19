@@ -6,11 +6,8 @@ O estudo foi conduzido entre 2019 e 2024 e resultou na **Lista Eureca 2024**, co
 
 ## Autores
 
-- Silvia Matos (Docente / IFRN)
-- Marília Freire (Docente / IFRN)
-- Isis Duarte (Discente / IFRN)
-- Ramon Vieira (Discente / IFRN)
+-
 
 ## Acesso ao documento
 
-👉 [Clique aqui para acessar o PDF da Lista Eureca 2024](./listas/ListaEureca-2024.pdf)
+👉 [Clique aqui para acessar o PDF da Lista Eureca 2024](./listas/ListaEureca2024.pdf)
